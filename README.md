@@ -19,8 +19,8 @@ This is a simple terminal-based quiz application written in C++. It asks multipl
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/edwinndambiri/quiz-project.git
-   cd quiz-project
+   git clone https://github.com/edwinndambiri/QuestionApp.git
+   cd QuestionApp
 
    ```
 
