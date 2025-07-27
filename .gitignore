@@ -1,0 +1,33 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary executables
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Backup & temporary files
+*~
+*.swp
+*.tmp
+*.bak
+
+# IDE/project files (VSCode, CLion, etc.)
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake or Makefile build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Quiz output files
+answers.txt
